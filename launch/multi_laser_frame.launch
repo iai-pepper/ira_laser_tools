@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<launch>
+
+    <node pkg="ira_laser_tools" type="multi_laser.py"
+          name="multi_laser" />
+  </launch>
